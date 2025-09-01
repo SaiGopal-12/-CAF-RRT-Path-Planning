@@ -55,9 +55,9 @@ The planner outputs a visually smooth and collision-free path on a 2D maze. The 
 - Initial jagged path,
 - Optimized smooth path using fillets.
 
-## 📊 Example Visualizations
+<!-- ## 📊 Example Visualizations
 
-> _(Add generated PNGs if desired)_
+> _(Add generated PNGs if desired)_ -->
 
 ## 📚 References
 
